@@ -54,6 +54,7 @@ Artificial Intelligence
 
 Refers to machines performing tasks that typically require human intelligence, such as reasoning and problem-solving.
 Examples include self-driving features that operate without human input.
+
 Augmented Intelligence
 
 Combines human and machine efforts to enhance task completion.
