@@ -27,7 +27,7 @@ Investigate governance and approaches to address these concerns.
 The course includes hands-on activities, quizzes, and a final project to reinforce learning and provide practical experience.
 
 
-V2
+V1 - INTRODUCING AI
 The course content introduces the concept of Artificial Intelligence (AI) and its evolution over time.
 
 Understanding AI
@@ -42,9 +42,8 @@ AI's Interdisciplinary Nature
 
 AI integrates multiple fields such as computer science, mathematics, psychology, and philosophy, influencing its development and ethical considerations.
 The course emphasizes the importance of understanding AI's applications and implications in society, highlighting its role in decision-making and innovation.
-And if you want to continue exploring this topic, try one of these follow-up questions:
 
-V3
+V2 - ARTIFICIAL INTELLIGENCE VS AUGMENTED INTELLIGENCE
 Human Intelligence
 
 Involves the skills needed to operate a vehicle, such as steering and checking mirrors.
@@ -64,7 +63,20 @@ Humans are better at generalizing information, creativity, and emotional intelli
 Conclusion
 
 Both artificial and augmented intelligence have their strengths, and the combination of both is essential for optimal results in various tasks.
-And if you want to continue exploring this topic, try one of these follow-up questions:
 
+V3 - INTRODUCING GENERATIVE AI AND ITS USE CASES
 
-V4
+The content focuses on introducing generative AI and its various applications across different sectors.
+
+Understanding Generative AI
+
+Generative AI creates new content from scratch, unlike traditional AI, which analyzes data and makes decisions.
+It utilizes deep learning techniques and large datasets to generate diverse forms of content, including text, images, and videos.
+Capabilities and Applications
+
+Generative AI can perform natural language processing tasks using large language models (LLMs) for text generation, translation, and summarization.
+It enhances creativity and customer experiences in marketing, creative fields, product development, healthcare, gaming, fashion, and education.
+Impact on Economy and Industries
+
+Research indicates that generative AI could contribute to a 7% growth in the global economy and improve productivity by 1.5% over ten years.
+It is reshaping industries by driving innovation, improving efficiency, and providing tailored solutions in various domains.
