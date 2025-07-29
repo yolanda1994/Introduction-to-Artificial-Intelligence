@@ -49,6 +49,7 @@ Human Intelligence
 
 Involves the skills needed to operate a vehicle, such as steering and checking mirrors.
 Relies on human capabilities like creativity and emotional understanding.
+
 Artificial Intelligence
 
 Refers to machines performing tasks that typically require human intelligence, such as reasoning and problem-solving.
