@@ -44,6 +44,7 @@ AI integrates multiple fields such as computer science, mathematics, psychology,
 The course emphasizes the importance of understanding AI's applications and implications in society, highlighting its role in decision-making and innovation.
 
 V2 - ARTIFICIAL INTELLIGENCE VS AUGMENTED INTELLIGENCE
+
 Human Intelligence
 
 Involves the skills needed to operate a vehicle, such as steering and checking mirrors.
