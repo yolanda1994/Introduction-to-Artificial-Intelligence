@@ -80,3 +80,68 @@ Impact on Economy and Industries
 
 Research indicates that generative AI could contribute to a 7% growth in the global economy and improve productivity by 1.5% over ten years.
 It is reshaping industries by driving innovation, improving efficiency, and providing tailored solutions in various domains.
+
+
+V4 - DIFFERENT TYPES OF AI
+In this reading, you learned about the following:
+
+The different types of AI include:
+
+Diagnostic/descriptive AI: Focuses on assessing the correctness of behavior by analyzing historical data to understand what happened and why.
+
+Predictive AI: Concerned with forecasting future outcomes based on historical and current data.
+
+Prescriptive AI: Focuses on determining the optimal course of action by providing recommendations based on data analysis.
+
+Generative/cognitive AI: Involved in producing various types of content, such as code, articles, images, and more.
+
+Reactive AI: Designed to respond to specific inputs with predetermined responses.
+
+Limited memory AI: Have the ability to use past experiences to inform current decisions.
+
+Theory of Mind AI: Advanced type of AI that aims to understand human emotions, beliefs, and intentions.
+
+Self-aware AI: Represents the most advanced form of AI, which has its own consciousness and self-awareness.
+
+Narrow AI (Weak AI): Designed to perform a specific task or a limited range of tasks.
+
+General AI (Strong AI): Can understand, learn, and apply knowledge across a wide range of tasks like human intelligence.
+
+V5 - THE EVOLUTION OF AI: TRADITIONAL vs GENERATIVE AI
+
+Coach
+This content explains the differences between traditional AI and generative AI, highlighting the evolution of AI systems.
+
+Traditional AI Framework
+
+Involves a repository for storing historical data, such as customer information.
+Utilizes an analytics platform to build predictive models, which are then applied to prevent customer churn.
+Feedback Loop in Traditional AI
+
+A feedback loop is essential for learning from past predictions, allowing models to improve over time.
+This process helps refine predictions and actions taken based on customer behavior.
+Generative AI Framework
+
+Starts with vast amounts of external data, rather than just organizational data.
+Employs large language models (LLMs) that require prompting and tuning to tailor them to specific business needs.
+Application and Feedback in Generative AI
+
+Similar to traditional AI, there is an application layer for implementing AI solutions.
+The feedback loop in generative AI focuses on refining the prompting and tuning process, as the data and models are often too large for individual organizations to manage.
+
+V6 - ARTIFICIAL INTELLIGENCE (ARE WE THERE YET)
+
+Understanding AI and AGI
+
+AI is defined as the simulation of intelligent behavior in computers, but true AGI, which would match human intelligence, has not yet been achieved.
+Examples like calculators and chess-playing computers illustrate that while they can perform specific tasks, they do not possess true intelligence.
+Turing Test and Its Implications
+
+The Turing Test is introduced as a measure of AI, where a computer's responses are indistinguishable from a human's in conversation.
+Although some chatbots have reportedly passed the Turing Test, the bar for what constitutes true intelligence remains subjective and often feels low.
+Current Developments and Future Prospects
+
+The conversation highlights the rapid advancements in AI technology, suggesting we are closer to achieving AGI than ever before.
+Despite progress, the speakers agree that we have not yet reached a point where AI can fully replicate human-like intelligence across diverse tasks.
+
+V7 - 
