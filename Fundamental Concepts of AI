@@ -28,3 +28,14 @@ Neural Networks
 Neural networks are computational models inspired by the human brain, consisting of interconnected nodes organized in three layers: input, hidden, and output.
 These networks process raw data, perform complex computations, and produce results, contributing to the overall functionality of AI systems.
 
+V3 - MACHINE LEARNING (ML)
+
+Types of Machine Learning
+
+Supervised Learning: Involves training algorithms on labeled data to classify new data. The more samples provided, the more accurate the classifications become.
+Unsupervised Learning: Utilizes unlabeled data to identify patterns independently. It is effective for clustering similar data points and detecting anomalies.
+Reinforcement Learning
+
+Reinforcement Learning: Involves defining a set of rules and constraints for the algorithm, which learns to achieve goals by maximizing rewards through trial and error. This approach is applicable in scenarios like playing games or navigating obstacles.
+Overall, machine learning models evolve by learning from data, contrasting with traditional programming that relies on fixed rules.
+
