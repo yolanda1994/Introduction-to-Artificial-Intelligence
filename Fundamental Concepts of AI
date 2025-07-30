@@ -12,3 +12,19 @@ Real-World Examples
 
 Companies like IBM, Google, and Amazon utilize cognitive computing in various fields, such as healthcare, finance, and customer service, to enhance their operations and services.
 
+
+v2 - TERMINOLOGIES AND CONCEPTS OF AI
+
+Understanding AI
+
+AI is a branch of computer science focused on creating systems that perform tasks requiring human intelligence, such as learning, reasoning, and problem-solving.
+AI is categorized into three types: narrow AI (specific tasks), general AI (human-like cognitive abilities), and super AI (theoretical, surpassing human intelligence).
+Machine Learning and Deep Learning
+
+Machine learning is a subset of AI that uses algorithms to analyze data and make decisions without explicit programming, enabling autonomous problem-solving.
+Deep learning, a specialized subset of machine learning, employs multi-layered neural networks to analyze complex data and simulate human decision-making.
+Neural Networks
+
+Neural networks are computational models inspired by the human brain, consisting of interconnected nodes organized in three layers: input, hidden, and output.
+These networks process raw data, perform complex computations, and produce results, contributing to the overall functionality of AI systems.
+
