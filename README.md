@@ -242,3 +242,24 @@ Industry Integration of Generative AI
 
 Major companies like Google, Salesforce, and Adobe are integrating Generative AI into their products for enhanced functionalities.
 A significant percentage of organizations are piloting or using Generative AI, showcasing its growing influence across industries.
+
+
+V12 - TEN EVERYDAY AI AND MACHINE LEARNING USE CASES
+
+
+Coach
+The content discusses the various applications of machine learning (ML) in everyday life, highlighting its significance and impact.
+
+Applications of Machine Learning
+
+Natural Language Processing (NLP): ML enables chatbots for customer service, handling text-based queries and routing customers to human representatives when necessary.
+Mobile Applications: Services like Spotify and LinkedIn utilize ML for personalized recommendations, while smartphones use ML for features like facial recognition and image classification.
+Financial and Security Uses
+
+Fraud Detection: Financial institutions employ ML to identify suspicious transactions among millions of daily credit card transactions.
+Cybersecurity: ML models are trained to detect and respond to cyberattacks, enhancing security measures.
+Healthcare and Marketing
+
+Healthcare: ML assists in interpreting medical images, improving accuracy in detecting conditions like cancer, and streamlining the workload for radiologists.
+Marketing: The marketing and sales departments leverage ML for targeted campaigns and data analytics, using recommendation algorithms similar to those used by streaming services.
+Overall, the content emphasizes that while discussions about advanced AI continue, machine learning is already a prevalent part of our daily lives.
