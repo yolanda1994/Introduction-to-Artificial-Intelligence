@@ -58,4 +58,17 @@ Validation Set: Helps fine-tune the model and validate its performance.
 Test Set: Contains unseen data to evaluate the model's effectiveness, measured by accuracy, precision, and recall.
 
 
-V5 - 
+V5 - DEEP LEARNING
+
+Deep Learning Overview
+
+Deep learning layers algorithms to create a neural network, mimicking the brain's structure and functionality.
+It enables AI systems to learn continuously and improve from unstructured data like images, videos, and audio.
+Deep Learning Process
+
+Algorithms rely on multiple processing layers, where each layer processes and passes its output to the next.
+Developers configure the number of layers and functions, training the model with annotated examples to detect patterns.
+Applications and Advantages
+
+Deep learning excels in tasks such as image captioning, voice recognition, facial recognition, medical imaging, language translation, and driverless car technology.
+Unlike traditional machine learning, deep learning algorithms improve performance as they are fed more data, addressing limitations of older algorithms.
