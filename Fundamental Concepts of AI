@@ -36,6 +36,26 @@ Supervised Learning: Involves training algorithms on labeled data to classify ne
 Unsupervised Learning: Utilizes unlabeled data to identify patterns independently. It is effective for clustering similar data points and detecting anomalies.
 Reinforcement Learning
 
+
 Reinforcement Learning: Involves defining a set of rules and constraints for the algorithm, which learns to achieve goals by maximizing rewards through trial and error. This approach is applicable in scenarios like playing games or navigating obstacles.
 Overall, machine learning models evolve by learning from data, contrasting with traditional programming that relies on fixed rules.
 
+V4 - MACHINE LEARNING: TECHNIQUES AND TRAINING
+
+Machine Learning Categories
+
+Supervised Learning: Involves training models using labeled datasets to predict or classify new data points.
+Unsupervised Learning: Focuses on discovering patterns in unlabeled data, often through clustering techniques.
+Reinforcement Learning: Utilizes a reward system to guide actions, rewarding good actions and penalizing bad ones.
+Supervised Learning Tasks
+
+Regression: Estimates continuous values by analyzing the relationship between input features and output results.
+Classification: Assigns discrete class labels based on input features, using models like decision trees and logistic regression.
+Model Training Process
+
+Training Set: Used to train the algorithm by providing labeled examples.
+Validation Set: Helps fine-tune the model and validate its performance.
+Test Set: Contains unseen data to evaluate the model's effectiveness, measured by accuracy, precision, and recall.
+
+
+V5 - 
